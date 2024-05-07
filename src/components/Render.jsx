@@ -8,7 +8,7 @@ function Render({breweries}) {
   )
 
   return (
-    <div className='grid grid-cols-4 gap-4'>
+    <div className='grid grid-cols-8 gap-4 mt-5'>
     {brew}
     </div>
   )
