@@ -11,7 +11,6 @@ function Search({searchInput,setSearchInput}) {
       onChange={(e) => setSearchInput(e.target.value)}
       />
       <button className='bg-amber-700 border  rounded-md hover:border-slate-400'
-      
       >Search</button>
     </div>
   );
